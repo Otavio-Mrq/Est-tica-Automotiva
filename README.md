@@ -1,0 +1,1 @@
+Um projeto desenvolvido durante meu segundo semestre do curso de análise e desenvolvimento de sistemas, o projeto foi desenvolvido com o intuíto de aprimorar as habilidades de programação orientada a objetos e a utilizar banco de dados juntamente com uma programação em java.
